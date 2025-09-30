@@ -1,0 +1,1 @@
+# Array-problem-16-Minimize-Number-
